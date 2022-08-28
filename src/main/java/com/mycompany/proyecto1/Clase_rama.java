@@ -6,7 +6,7 @@ package com.mycompany.proyecto1;
 
 /**
  *
- * @author Martina
+ * @author Martina uwuwu
  */
 public class Clase_rama {
     String nombre_rama;
